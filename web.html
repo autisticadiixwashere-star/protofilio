@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Website</title>
+    <style>
+        body {
+            font-family: Archivo Black ;
+            background-color: #D2042D;
+            margin: 0;
+            padding: 40px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #FFFFFF;
+            font-size: 22px;
+            max-width: 800px;
+            margin: 20px auto;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>hey i made a small website for u <3</h1>
+    <p>
+        hey look, i know your days have been not so well, but dont worry yk i may not be much but ill try everything i can do to make u happy you mean the world to me
+        Just know that i am always here for you no matter what even in silence my love will speak to you. I am sure that many difficulties will come in our lives
+        but no matter what happens ill always be there to support you, im always proud of you no matter what even your littlest efforts means the world to me
+        I just want you to know that everything is going to be alright. 
+        I know things might feel heavy right now, but this moment wont last forever brighter days are coming. 
+        You dont have to go through it alone, because Im here for you, always. No matter what happens, 
+        Ill be right by your side, ready to listen, to care, and to remind you how strong you truly are. 
+        Youve got this, and Ive got you..
+        i lovee you!
+    </p>
+</body>
+</html>
